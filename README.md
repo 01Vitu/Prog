@@ -1,2 +1,2 @@
-# LabProg
-Atividades da disciplina de laboratorio de Programaçao
+Prog
+Atividades da disciplina de Programaçao
